@@ -2,7 +2,7 @@
 // Licensed under the MIT License.
 
 const config = {
-    appId: 'b0508441-ce39-4173-b62b-8aea23e5ddba',
+    appId: 'YOUR_APP_ID',
     redirectUri: 'http://localhost:3000',
     scopes: [
       'user.read',
